@@ -21,6 +21,7 @@
 		516B78DC187DB50900D49A63 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 516B78BE187DB50900D49A63 /* UIKit.framework */; };
 		516B78E4187DB50900D49A63 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 516B78E2187DB50900D49A63 /* InfoPlist.strings */; };
 		516B78E6187DB50900D49A63 /* ScrollViewEx01Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 516B78E5187DB50900D49A63 /* ScrollViewEx01Tests.m */; };
+		516B78F0187DB5F200D49A63 /* rt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 516B78EF187DB5F200D49A63 /* rt.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		516B78E1187DB50900D49A63 /* ScrollViewEx01Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ScrollViewEx01Tests-Info.plist"; sourceTree = "<group>"; };
 		516B78E3187DB50900D49A63 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		516B78E5187DB50900D49A63 /* ScrollViewEx01Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollViewEx01Tests.m; sourceTree = "<group>"; };
+		516B78EF187DB5F200D49A63 /* rt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rt.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		516B78C0187DB50900D49A63 /* ScrollViewEx01 */ = {
 			isa = PBXGroup;
 			children = (
+				516B78EF187DB5F200D49A63 /* rt.jpg */,
 				516B78C9187DB50900D49A63 /* AppDelegate.h */,
 				516B78CA187DB50900D49A63 /* AppDelegate.m */,
 				516B78CC187DB50900D49A63 /* Main.storyboard */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				516B78F0187DB5F200D49A63 /* rt.jpg in Resources */,
 				516B78D3187DB50900D49A63 /* Images.xcassets in Resources */,
 				516B78C5187DB50900D49A63 /* InfoPlist.strings in Resources */,
 				516B78CE187DB50900D49A63 /* Main.storyboard in Resources */,
